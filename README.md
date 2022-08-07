@@ -36,3 +36,16 @@ Flutter setup: https://docs.flutter.dev/get-started/install/macos
 1. Classes & Objects in Dart: https://dart.academy/creating-objects-and-classes-in-dart-and-flutter/
 2. Get started with Flutter: https://docs.flutter.dev/get-started/codelab
 3. Flutter layouts: https://docs.flutter.dev/development/ui/layout
+
+## Screenshots
+
+<table>
+  <tr>
+    <td><img src="./screenshots/send-otp.png" width="320"/></td>
+    <td><img src="./screenshots/verify-otp.png" width="320"/></td>
+  </tr>
+  <tr>
+    <td><img src="./screenshots/verify-otp-snackbar.png" width="320"/></td>
+    <td><img src="./screenshots/dashboard.png" width="320"/></td>
+  </tr>
+</table>
